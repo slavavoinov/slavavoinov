@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 My name is Vyacheslav. Welcome!
+
+About me
+-
+I am 40 year old programmer from Odintsovo 💻
+-
+I learn Java at Job4j ☕
+-
+My Java expirience is 3 years ⌚
+-
 
 <!--
 **slavavoinov/slavavoinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
